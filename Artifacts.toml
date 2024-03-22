@@ -1,1624 +1,1624 @@
 [[MaximumIndependentSet]]
 arch = "aarch64"
-git-tree-sha1 = "04b0f7c7e61206b5b6962eceb42e0b834b5c0869"
+git-tree-sha1 = "96424dd4e15ef1d6c1c092bbaffaa364489351cb"
 julia_version = "1.10.0"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "e0ea7fa4f083e88ea6c8f49abf744ff189e561c94a14817d5c82cbff6628c07a"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "d0d5ed161649f1b77d33fddd71d1ec1f5192681be43eb512eba667e58bee3ab5"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
-git-tree-sha1 = "f734a870d6c668b5ee7e42636cee4a0fc85fe040"
+git-tree-sha1 = "7800f897ecb1317e004917cb276cf3e20ef1bb78"
 julia_version = "1.11.0"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "d11c3fb59c82a14a7091c3e4c4d8ea529abd7b09a89e5ebf4eee68b5f31dc6e0"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "498882ca1cd35b4ab80de1fbdcd39bed021d3b1a0054b203ea9295953b8d2e65"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
-git-tree-sha1 = "1d614410b019f565423d18ac1474e90cfe693cee"
+git-tree-sha1 = "079c9b3b5b19fcc04b135dd3969c3450b48e6e99"
 julia_version = "1.12.0"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "8a7aa051fa70ddece4122f098925545d3bd3d7ca8bafaefd788f9162a0fac506"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "6899e70d53b06404cd9617906ae0a349d2809d62c1551641cdf1a6c619ad3215"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
-git-tree-sha1 = "70b00b214825be53eaee981ec5a5ced14f4926f3"
+git-tree-sha1 = "159004375a41d86c9c06de2ee381ddb5e3fb32ba"
 julia_version = "1.7.0"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "872c4a42880fa1cd31bb319350cd9293c49da3d1b3fec893e4a7cf7c153ec319"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "862c587ed47c2c6d7ed11effb6d5e10fb96802a52a52ea6207372b298c1398d1"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
-git-tree-sha1 = "e131a2a68938d357832a3f2c785bb685fc0a6f46"
+git-tree-sha1 = "e3ce68ee52180140cf90215326fd7282b7010738"
 julia_version = "1.8.2"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "eb97144c00170d41b964436e7a1d45e6abd8e300e627ddf005efe51d38530f5c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "330b89515186e82e35196942f92ebdef8c580cfec5fc9cde66589328b8a2d7f3"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
-git-tree-sha1 = "0dd21d7a86dad47dbbc55dd79df8919b83cab360"
+git-tree-sha1 = "9088773b922dc25b79a7803a6c6de572b356cd34"
 julia_version = "1.9.0"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "b97b47c6d402693b8fb736b5bb8901ebb6b16184f98dba97a5a78432c041d3a0"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "bdb04e80759da76cc2cf6ec3233849eaea113e0dd652c04c4f23008ab3950420"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bb6e8fd9528ca0f9f048da50ea241863e481d05d"
+git-tree-sha1 = "d606e1f6b5959b531d8dce64481a3401339ce481"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "dfa0dc6334cc832dcdc613315414aad2241b3449c7eff97cc27d72040af7c4ef"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "51022240997f6fe72cfacf2d7df055c4ce8ffbdb7d533e9aa43284d9b6485b05"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8ef392454939540c5f585a35c9d213b28462b4ca"
+git-tree-sha1 = "72741976b6a59df3d22fedee266fa21616984d2b"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "9148882eb08d45a581bef025548500140d5b898885591f4b5efc195205e98e75"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "aca6ea7d80cff5e30c319f2bf6e7f8988db2a3d67aa60e44f314d063e67f4cd6"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b9b1c2aa5d7820d5effa1399d27d2c6eced3c53e"
+git-tree-sha1 = "3172bc0c6a370d559015ab487206a0277624abd8"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "bf26ae94a9f1774a3427b354dff47590932dbabd28efc999e264490da9238e77"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "eb60a11eafc091f7985a2e57af2fdeceed7fb51a75785440e8a7cf512b1c6335"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ef646fa6a00760a018633a2971cfa3f7a28dc830"
+git-tree-sha1 = "3c4773e6d3ba484815f457397bd5b2e74c59cbb0"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "b637615055c5255af06600d4a2fd88907fb21cfca11dab8b0b3e96bea9ae0424"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "fc26713d2b270aa54830ac3937a628c2a530383a9eaa62bea1890fd817e53810"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ef646fa6a00760a018633a2971cfa3f7a28dc830"
+git-tree-sha1 = "3c4773e6d3ba484815f457397bd5b2e74c59cbb0"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "b637615055c5255af06600d4a2fd88907fb21cfca11dab8b0b3e96bea9ae0424"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "fc26713d2b270aa54830ac3937a628c2a530383a9eaa62bea1890fd817e53810"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ef646fa6a00760a018633a2971cfa3f7a28dc830"
+git-tree-sha1 = "3c4773e6d3ba484815f457397bd5b2e74c59cbb0"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "b637615055c5255af06600d4a2fd88907fb21cfca11dab8b0b3e96bea9ae0424"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "fc26713d2b270aa54830ac3937a628c2a530383a9eaa62bea1890fd817e53810"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ef646fa6a00760a018633a2971cfa3f7a28dc830"
+git-tree-sha1 = "3c4773e6d3ba484815f457397bd5b2e74c59cbb0"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "b637615055c5255af06600d4a2fd88907fb21cfca11dab8b0b3e96bea9ae0424"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "fc26713d2b270aa54830ac3937a628c2a530383a9eaa62bea1890fd817e53810"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f83887bb59728798d902a900f6b5ed60dc608633"
+git-tree-sha1 = "5e5f92caa480fda90c4e7eb1a5d9a24ad939e3ed"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "02dab8d4e5fc5fe86e7bfe626de6656b5657972e4bfd66111a6bce37fae57a14"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "677c89af1fa8a1babf01d6f45e1004d441ad80c345c0e48250a61c314f052248"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7744234fbdbe55ce279b0875708912ecca5d3e9c"
+git-tree-sha1 = "98d81d80933f6004e350561f03e7682fd689c3ec"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "d9e4d0325a6e705ecdfa90e946de1a861a0a037271d306d022b2ed9e311b9550"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "b3f2d7e374282d7c0e6798ad0bd2f5f5a8b5a8d1212dcda05b7bf50ceae2f0ea"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "68bcef5cb5fb7e77bf579c560d88107b13444ce6"
+git-tree-sha1 = "d2b3c9951a3d0810e5bb3d0897591b2082daef75"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "1b00719c5a81727cdeaad801403257ed72739a83d93555562ecb7704672c60ae"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "1bcbb981ea7d685cdbce900db2f7cb3a96ec5310878f98024a2e286a865c5999"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a36c8df3c48dcc90c9d655c9cf9a308f22add333"
+git-tree-sha1 = "d4981ead084a5ee06700a3bc30761efe386e0db5"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "969d292a8df65c460963be859dca34f755aedb59086ff99e066b9b07511e8e9c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "a9b9acdaa45137991b162d904b67569038fd919382fdbf602ce5c3284bded379"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a36c8df3c48dcc90c9d655c9cf9a308f22add333"
+git-tree-sha1 = "d4981ead084a5ee06700a3bc30761efe386e0db5"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "969d292a8df65c460963be859dca34f755aedb59086ff99e066b9b07511e8e9c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "a9b9acdaa45137991b162d904b67569038fd919382fdbf602ce5c3284bded379"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a36c8df3c48dcc90c9d655c9cf9a308f22add333"
+git-tree-sha1 = "d4981ead084a5ee06700a3bc30761efe386e0db5"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "969d292a8df65c460963be859dca34f755aedb59086ff99e066b9b07511e8e9c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "a9b9acdaa45137991b162d904b67569038fd919382fdbf602ce5c3284bded379"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a36c8df3c48dcc90c9d655c9cf9a308f22add333"
+git-tree-sha1 = "d4981ead084a5ee06700a3bc30761efe386e0db5"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "969d292a8df65c460963be859dca34f755aedb59086ff99e066b9b07511e8e9c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "a9b9acdaa45137991b162d904b67569038fd919382fdbf602ce5c3284bded379"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "81c79829cef3f5e7b5bf8c7d3ed7a23217c3aca9"
+git-tree-sha1 = "3136a1e3924a69b41d4ba9205352fcfdb7847eeb"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "3c10dbfc78e9a1bae0634caed613920216ecd27ee381e7f91977b3b8f5607ca2"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "d2678daa0c63cee004cc564a77a769d679df458503126af079f06015528c5116"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e553a1d0edcee6a4397a33479e4540fcf7b3e010"
+git-tree-sha1 = "54947c0f6307008efce210ed03a137a5b70fb56f"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "83770f7aed462146d93b1ea683c989a76078930177c9711e167bcad88d709f1b"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "5c4954d4ac9bc007025025fcaac86478c27cd9bc85349176a74343c193e57bf9"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f4a8824f69fa6748b9cb1304e74520b0a4ab6ff5"
+git-tree-sha1 = "df9da2012d9f30f9ed1d0f623c3dea5a7b6c2cc7"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "6c8b11807955f174a71f4ef110344a69e36a59ade2cbaed56ebf87a0d2f8f018"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "a2f179ebc2a755db32b2a742220b5498073a086fe83dad971d280f93405f427d"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6389a2dc9bb85cc7311c9c57affc6908644f2d48"
+git-tree-sha1 = "528aac3682be6ee541f77da63229d47f6b117038"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "0f5ee3510ee97ce74ff9c947dc90c8785972ea6b8b743b2101306514839fce8f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "ee716948b94759fc929b39ebe8dc78ebdee35c143df571abcfb0658ceff723c5"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6389a2dc9bb85cc7311c9c57affc6908644f2d48"
+git-tree-sha1 = "528aac3682be6ee541f77da63229d47f6b117038"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "0f5ee3510ee97ce74ff9c947dc90c8785972ea6b8b743b2101306514839fce8f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "ee716948b94759fc929b39ebe8dc78ebdee35c143df571abcfb0658ceff723c5"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6389a2dc9bb85cc7311c9c57affc6908644f2d48"
+git-tree-sha1 = "528aac3682be6ee541f77da63229d47f6b117038"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "0f5ee3510ee97ce74ff9c947dc90c8785972ea6b8b743b2101306514839fce8f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "ee716948b94759fc929b39ebe8dc78ebdee35c143df571abcfb0658ceff723c5"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6389a2dc9bb85cc7311c9c57affc6908644f2d48"
+git-tree-sha1 = "528aac3682be6ee541f77da63229d47f6b117038"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "0f5ee3510ee97ce74ff9c947dc90c8785972ea6b8b743b2101306514839fce8f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "ee716948b94759fc929b39ebe8dc78ebdee35c143df571abcfb0658ceff723c5"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "273d21c9e6def4d291e97b4a1fad23c9d2e93b8c"
+git-tree-sha1 = "a801b6edce500f2303ec6637ca223b2e7f9057d9"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "b0d1cd49bbe9c183dcb1d2b36e0dcce22696d74da3d77aadd518e70ed681541a"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "f71a9087839057825f8ae04e436862c7b5ee1e6031526057aac523d9cf46007d"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a3abbcc60293e9a03f2ceb2f678808b8aab0be58"
+git-tree-sha1 = "1e623adc0f0160addd4421a8ab080ad36c1a7fa6"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "ca65a0e07d1e3e641f9662cd27dafeb374f78951b1840191aa220ab8be983e87"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "da0d957550b2fee9770cbc5d8bfcb58c0d171f624540ad18c24d1e453ec4270d"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "18c773e43f5359be0c2caaa82721a44a20e82c2b"
+git-tree-sha1 = "45c28ba2f1f387170de0301b33af99a511a28404"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "c04203c98b194cb29fa1dbfaee31c73b85a51c2e5b08960a96252071e6a5e5c4"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "2e9cece33f73d6670867528740d25a64aa2cd22d9086eda61d7f910bc416a3fd"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1fd7a41c92b1765309ab565189a511cc75f9b592"
+git-tree-sha1 = "683f152585652a3c011440ef192d02c01237dd5f"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "68c53500eb239a7ed27d7b16cc8feac3a23af8b273819043866d69286e70e521"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "6916f9c8b4282dcf5f668f35733e3ad2c1081f73d62ada25fc2d5bc17732dbcb"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1fd7a41c92b1765309ab565189a511cc75f9b592"
+git-tree-sha1 = "683f152585652a3c011440ef192d02c01237dd5f"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "68c53500eb239a7ed27d7b16cc8feac3a23af8b273819043866d69286e70e521"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "6916f9c8b4282dcf5f668f35733e3ad2c1081f73d62ada25fc2d5bc17732dbcb"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1fd7a41c92b1765309ab565189a511cc75f9b592"
+git-tree-sha1 = "683f152585652a3c011440ef192d02c01237dd5f"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "68c53500eb239a7ed27d7b16cc8feac3a23af8b273819043866d69286e70e521"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "6916f9c8b4282dcf5f668f35733e3ad2c1081f73d62ada25fc2d5bc17732dbcb"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1fd7a41c92b1765309ab565189a511cc75f9b592"
+git-tree-sha1 = "683f152585652a3c011440ef192d02c01237dd5f"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "68c53500eb239a7ed27d7b16cc8feac3a23af8b273819043866d69286e70e521"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "6916f9c8b4282dcf5f668f35733e3ad2c1081f73d62ada25fc2d5bc17732dbcb"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "42ea86d5dd35a03f21a9c04927e690225555d7df"
+git-tree-sha1 = "f998d127961c4081bbea5b3faa3f69be2f88c65e"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "daa1223fc4afc6aa249165f1dfb1479afd320f869f908f0ef1b881d5d6e1d929"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "81915163e7f8950f7cf36613f4213f4f2c085501287a080f71c3d5cafdffa980"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "42ea86d5dd35a03f21a9c04927e690225555d7df"
+git-tree-sha1 = "f998d127961c4081bbea5b3faa3f69be2f88c65e"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "daa1223fc4afc6aa249165f1dfb1479afd320f869f908f0ef1b881d5d6e1d929"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "81915163e7f8950f7cf36613f4213f4f2c085501287a080f71c3d5cafdffa980"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c48c95dc48d5a545778c2d672e4b18ca88573164"
+git-tree-sha1 = "9dc84f2fa748ebfc1405cb2dc5efd22deb469f56"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "e381d9c3c57d6d0e4c0d00a19b24b7c5fc7099fcd598be322f30dff785807e0f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "ffdf3faa6542a371cb0be03e4030e8c35e36b293bb152edc04459a217101098a"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c48c95dc48d5a545778c2d672e4b18ca88573164"
+git-tree-sha1 = "9dc84f2fa748ebfc1405cb2dc5efd22deb469f56"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "e381d9c3c57d6d0e4c0d00a19b24b7c5fc7099fcd598be322f30dff785807e0f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "ffdf3faa6542a371cb0be03e4030e8c35e36b293bb152edc04459a217101098a"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1c976c1d5b59078c32aeeeb8017d92d3dcbf59a1"
+git-tree-sha1 = "b672a6a7025e6d871881d9f6836dbc3f22227248"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "3b2e7d187bc5a5b727b5d25ddd6d6c4dee6ac1a4e470786543f7530b7447f65e"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "05475802147116393622f24dcc670caec6eb0a02849216eece5b9ffe00dc65f5"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1c976c1d5b59078c32aeeeb8017d92d3dcbf59a1"
+git-tree-sha1 = "b672a6a7025e6d871881d9f6836dbc3f22227248"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "3b2e7d187bc5a5b727b5d25ddd6d6c4dee6ac1a4e470786543f7530b7447f65e"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv6l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "05475802147116393622f24dcc670caec6eb0a02849216eece5b9ffe00dc65f5"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv6l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0cfebf4d52c7c1ab9c175ba2737d0f5683601cc0"
+git-tree-sha1 = "71e53682cc1adb65090f8232fafd542e53efaace"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "43329bf58d96140a76ced1170d9c0d83c32a1257097d9e2c7aa651960386f980"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "961d26f484da5e00c49724ff916788ebde0953fdf41c48b9755562212913df7e"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0cfebf4d52c7c1ab9c175ba2737d0f5683601cc0"
+git-tree-sha1 = "71e53682cc1adb65090f8232fafd542e53efaace"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "43329bf58d96140a76ced1170d9c0d83c32a1257097d9e2c7aa651960386f980"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv6l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "961d26f484da5e00c49724ff916788ebde0953fdf41c48b9755562212913df7e"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv6l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ae421909d8e9cbb1ff64ccc242d04788b37b87a0"
+git-tree-sha1 = "ea6d899e7ff44246c86a453d2f654c4c74b31a74"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "7232b0de5938decd23838cda786e433cf18987dac386afb534db6f230e8f679e"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "b177b6b37abaaec04709b0e89c8f696e1ce5540d8b8e386e45656cf91edf19ea"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ae421909d8e9cbb1ff64ccc242d04788b37b87a0"
+git-tree-sha1 = "ea6d899e7ff44246c86a453d2f654c4c74b31a74"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "7232b0de5938decd23838cda786e433cf18987dac386afb534db6f230e8f679e"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "b177b6b37abaaec04709b0e89c8f696e1ce5540d8b8e386e45656cf91edf19ea"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ae421909d8e9cbb1ff64ccc242d04788b37b87a0"
+git-tree-sha1 = "ea6d899e7ff44246c86a453d2f654c4c74b31a74"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "7232b0de5938decd23838cda786e433cf18987dac386afb534db6f230e8f679e"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "b177b6b37abaaec04709b0e89c8f696e1ce5540d8b8e386e45656cf91edf19ea"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "99a601f81258aab398f10981791af7173280c533"
+git-tree-sha1 = "2dae2f724eb58cf3d1891705a531ca2896f60ea0"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "55cc2265ff005a892d77478f16e9a8123aac5622f4a65d1f325fd2f9df655998"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "4cd39ebc2c9fece95424d793aebcb9cd0533727f0c1a41842700881aa7121e93"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "99a601f81258aab398f10981791af7173280c533"
+git-tree-sha1 = "2dae2f724eb58cf3d1891705a531ca2896f60ea0"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "55cc2265ff005a892d77478f16e9a8123aac5622f4a65d1f325fd2f9df655998"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "4cd39ebc2c9fece95424d793aebcb9cd0533727f0c1a41842700881aa7121e93"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "99a601f81258aab398f10981791af7173280c533"
+git-tree-sha1 = "2dae2f724eb58cf3d1891705a531ca2896f60ea0"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "55cc2265ff005a892d77478f16e9a8123aac5622f4a65d1f325fd2f9df655998"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "4cd39ebc2c9fece95424d793aebcb9cd0533727f0c1a41842700881aa7121e93"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f2920e668bfb732f7b677df62f4428d50339c8f8"
+git-tree-sha1 = "8f4ca0e79a3c76fca4044797164d3ee03af01f7b"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "644a6c9b5be181a1fc84df0f6df2fdc8d55d734bd8197777d7852815fff49ba4"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "d8c00f9d4c8fb98b351ca1fcdf5d711a2c5e9144fffde0568c79215eb1bc6cac"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f2920e668bfb732f7b677df62f4428d50339c8f8"
+git-tree-sha1 = "8f4ca0e79a3c76fca4044797164d3ee03af01f7b"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "644a6c9b5be181a1fc84df0f6df2fdc8d55d734bd8197777d7852815fff49ba4"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "d8c00f9d4c8fb98b351ca1fcdf5d711a2c5e9144fffde0568c79215eb1bc6cac"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f2920e668bfb732f7b677df62f4428d50339c8f8"
+git-tree-sha1 = "8f4ca0e79a3c76fca4044797164d3ee03af01f7b"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "644a6c9b5be181a1fc84df0f6df2fdc8d55d734bd8197777d7852815fff49ba4"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "d8c00f9d4c8fb98b351ca1fcdf5d711a2c5e9144fffde0568c79215eb1bc6cac"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a5734edd3f3fa2c356c2bc316e560c70e325e86"
+git-tree-sha1 = "8e0dc642e661afb32197cd0b4eed3f605d790110"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "1d86c0f6b8a1f343e0c9b90254651cd738671167ff0ec8cb64eeedb7cf2a1345"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "746c130bff03a11bbb9c9e6a1c9b574aecdbd38029c50832df7899a3c3e00d92"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a5734edd3f3fa2c356c2bc316e560c70e325e86"
+git-tree-sha1 = "8e0dc642e661afb32197cd0b4eed3f605d790110"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "1d86c0f6b8a1f343e0c9b90254651cd738671167ff0ec8cb64eeedb7cf2a1345"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "746c130bff03a11bbb9c9e6a1c9b574aecdbd38029c50832df7899a3c3e00d92"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a5734edd3f3fa2c356c2bc316e560c70e325e86"
+git-tree-sha1 = "8e0dc642e661afb32197cd0b4eed3f605d790110"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "1d86c0f6b8a1f343e0c9b90254651cd738671167ff0ec8cb64eeedb7cf2a1345"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "746c130bff03a11bbb9c9e6a1c9b574aecdbd38029c50832df7899a3c3e00d92"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4b54091dd8244c5d442304fd13095fa08746a2b3"
+git-tree-sha1 = "acdbd8fc94496fe3f16f796df5d562e7d3b5270f"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "76f8a47bde888e40dba2fe2f369d1c0a6d66429bebf7346c2f5dea41bd92a681"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "a1bcda64789b7e514cb3d889df4a8958a5fc4c53b8317dbbd690be3cdeb0a842"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0781dfefac70f06a72935c2ad7db97196eaf3541"
+git-tree-sha1 = "373e5381d075b5b84d5342a6bda48be14c524aa3"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "05e19c10cce0814c4b8d1a93af5f0658ff213d04e627aea084790786dd3637e9"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "3e2214df23c5428252356e33eca7508e20d5f507ff26c49c7598395c9fe8fc4d"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3a8e08a6d0f504e1c2a119d7d650449500eed300"
+git-tree-sha1 = "c91c40e250077879626e87e7d9520ef6c3ac267d"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "09681c123f0833ae279f5e2de2635562483e7ba345b10f9975c057d7fa09b2ec"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "0a42295eadaff604fca5b2df08e7916846390e7b5e4f320bcecfe475c633adcd"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f9dde71a5f5f8d56255ec6e0bb8e819dc5238892"
+git-tree-sha1 = "64b54ce4d64259ded7d2e23941973144c6230746"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "f229f809f0ef61679ec80b379fb2068544da008e7804525d2bf06e66bcd38757"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "0eba8abdb5d15208e5b14680c6e0f5f0e5bd243550caa6e07da7bb3b65e01fad"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f9dde71a5f5f8d56255ec6e0bb8e819dc5238892"
+git-tree-sha1 = "64b54ce4d64259ded7d2e23941973144c6230746"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "f229f809f0ef61679ec80b379fb2068544da008e7804525d2bf06e66bcd38757"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "0eba8abdb5d15208e5b14680c6e0f5f0e5bd243550caa6e07da7bb3b65e01fad"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f9dde71a5f5f8d56255ec6e0bb8e819dc5238892"
+git-tree-sha1 = "64b54ce4d64259ded7d2e23941973144c6230746"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "f229f809f0ef61679ec80b379fb2068544da008e7804525d2bf06e66bcd38757"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "0eba8abdb5d15208e5b14680c6e0f5f0e5bd243550caa6e07da7bb3b65e01fad"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f9dde71a5f5f8d56255ec6e0bb8e819dc5238892"
+git-tree-sha1 = "64b54ce4d64259ded7d2e23941973144c6230746"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "f229f809f0ef61679ec80b379fb2068544da008e7804525d2bf06e66bcd38757"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "0eba8abdb5d15208e5b14680c6e0f5f0e5bd243550caa6e07da7bb3b65e01fad"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "18d46387b7b55f21de5f42f1d5a5f0cb615f6d27"
+git-tree-sha1 = "c1bc907d62da841d45c79a68575132563cb4c442"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "56df2411e357b6ad27df2486faea32edfd5d64786a7785f9edc486f4e9dbaa41"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "9daeb48958c5da91af5f455756555d5e2c05e490745443ef4ef5ad2767161667"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "84981c504d8900f0a32c9d52d5add72c683d5707"
+git-tree-sha1 = "4aefa9917f2697178a4c50f60895ad7e3c46ca03"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "b2f40a5da4446568f1618c4a249caa101508d0e549cd64f0e1660b1cc53b276c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "afea655c8604ee96a2e8d7fdc431b6be208aad895f36721a5ff5caab09c43ea7"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b58c0f07acc1ac36579a3d7d715b98028e0237e4"
+git-tree-sha1 = "538e3fcf3f70bb325232109c22b2d5413d01d654"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "643b32e095ff60771ecc14ca23a939ea3df8c0e93c545154d32ce14ba1c68b33"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "beabf2b65af66ef07310f1e8b5f150dc53ed9da7fb59079564c6e1f2fa9b3b63"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ce2564b3e2c972eb5a9e021db168aaf08295d412"
+git-tree-sha1 = "9e1e34fee9b572e2f9e0ece45a0c5468837b7bf1"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "caba95e94d2fefc62ef6a621ac26e23b8f05935b8501e52d8c8438434b79fa87"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "7763c6856e5fabb3eb4d3c29de1dd1efebc0563a211497807b1cb4f541d0b653"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ce2564b3e2c972eb5a9e021db168aaf08295d412"
+git-tree-sha1 = "9e1e34fee9b572e2f9e0ece45a0c5468837b7bf1"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "caba95e94d2fefc62ef6a621ac26e23b8f05935b8501e52d8c8438434b79fa87"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "7763c6856e5fabb3eb4d3c29de1dd1efebc0563a211497807b1cb4f541d0b653"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ce2564b3e2c972eb5a9e021db168aaf08295d412"
+git-tree-sha1 = "9e1e34fee9b572e2f9e0ece45a0c5468837b7bf1"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "caba95e94d2fefc62ef6a621ac26e23b8f05935b8501e52d8c8438434b79fa87"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "7763c6856e5fabb3eb4d3c29de1dd1efebc0563a211497807b1cb4f541d0b653"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ce2564b3e2c972eb5a9e021db168aaf08295d412"
+git-tree-sha1 = "9e1e34fee9b572e2f9e0ece45a0c5468837b7bf1"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "caba95e94d2fefc62ef6a621ac26e23b8f05935b8501e52d8c8438434b79fa87"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "7763c6856e5fabb3eb4d3c29de1dd1efebc0563a211497807b1cb4f541d0b653"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e142408029cad83288669464289599bde8060874"
+git-tree-sha1 = "7c6dca70c8d728d8ea4d037d78641d435253c834"
 julia_version = "1.10.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "cd3f436d705b0d2646118f59f505a22ad2ac7f10e02a169844bc033d6a1e8a1d"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "9edf2b11f15e18b9260e3542babe119a4409fe4da2fda9b33100833b07db689b"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cc1cc1ea025c59bbcfa7633f577342cae639b3b4"
+git-tree-sha1 = "f27f943b98b4c94f7906f1a728ca83160de3faac"
 julia_version = "1.11.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "aa9f9cfbb7840d6f59b91628233e67ee079eaaa70dc52ceba3e9de0cae1c7124"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "4597a5c326faf68eafea67710fec605577d0cf426d764790acfa38eb794fb9a2"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cd0f9e562d942fddb8e178188867c4d491601f2d"
+git-tree-sha1 = "d10ab4739523b9b4f188c7900bbaed438d2c169a"
 julia_version = "1.12.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "9ae296b05416e738510d89ea95a0aac5bf9140b768a2d3bb8f4f2b09d4b8d150"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "7f803b1913776a0faf21f2befe8d19028af4fe53bde7985587d9dc394c1b5096"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8ef290ce70473199b1e8989c3de57861f74d003e"
+git-tree-sha1 = "722ab3e12615c40692a6228f8d2eff2ef4914de6"
 julia_version = "1.6.3"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "dfee6fb9b57c98d7a545f041150911734744ccf052c8357a2110291eacd4941c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "b920d237d7099eca3ca8ad81c7dd23ffd89b88abedd6f6b482649df428037ede"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e26b8c38f6ac5cab741e8ccf05166b658fb1cb1a"
+git-tree-sha1 = "c05b5e7a169ac3c29a1679de5a452e7da76c6ca8"
 julia_version = "1.7.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "1f0ac6e5db0f43a1a374a08b6799392ef692d890ffff6b1d16718e76ac9e1b02"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "844f8e07a40b6e2a8dee01fc1583a78a5fb258169391894f1f6c22b2ed13f85d"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8fca055355ba5f32a8f765219ba13e7e83e77ba0"
+git-tree-sha1 = "27d434c52899a5f11d056e503e68a0319422ed3e"
 julia_version = "1.8.2"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "6b26d0aa64dff726c07d53546ca59c5eb90afc11ecd8e482b408cffddb28d33b"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "a1bc46670b348c4b48fab2b47a3e25d96e82a4af034bf428dca84d26b6ad1e24"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "057cc8470ad31b6757d44bdaa52dcb3a40e57835"
+git-tree-sha1 = "54024a85430660f4d5afedb308cf8075697ab471"
 julia_version = "1.9.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "e43af6bdf31783b63585a91c2d860cb60e4f033ee6ca7581e3a22dbcfd32e44a"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "099d841d15b11b32ddc42468a4c533a9623be832b975df14436192898aeb3dd3"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "89a9c8bbf8638ba2b986e6fbb7b2bff77cf901d1"
+git-tree-sha1 = "28855aa142aba8e0d35ec82d14ce18818cf9040a"
 julia_version = "1.10.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "0849649f23204dd1b8fdd4a0e40652509ff65893248c7f000dd1ee419b30ba3c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "c7d31397ca5a8800bee98f9beafbd061d48092c5cfd3a5b035cb0ee0ce78a592"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0d0122011cba99e15b43e1bb78d5809d73202a65"
+git-tree-sha1 = "aff0d935c3b3bd8972a6abe77d88828b6c3b6a9d"
 julia_version = "1.11.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "b86874fa6bc30ae0495119dfcb036270b0baf6a247cf3f1fb558e9c1ac58627a"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "5e1b3baf60002fa8e6dee19ff3aebfb43cc5edb3b0b8b07ecb47c9bfd74b8278"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "100ece036367f13b275576f4890dc9f77c0eca7d"
+git-tree-sha1 = "7abecf21746ffb3bbce26336685b21334522801c"
 julia_version = "1.12.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "5454a3dd4b6574012c3983a72ba98cd698aca4bc42798e1ddcf105f6ef8a3330"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "fe4b5afaf3bd7031c7a500757ce42477e0ab27dff794a9c8ce1055b4b39b4c42"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b6bd2ca6e9011ea111f72883b1db5b2b6d61f3e6"
+git-tree-sha1 = "45741ee5e22e45314c574bf6a8c4701dabda7a66"
 julia_version = "1.6.3"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "1ef0a88c37b5652ecbba87830458e48e0134a2b6df6546fe11b4661f8c386710"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "31190a80842ac1602ba71c144e6c112dc4713aa9ab166b5c01d98ec6b92df996"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9d20a6bcc4ed6da435d29e72b7ef6812d8a0664b"
+git-tree-sha1 = "6e47751393bf7107ff457b348e5c0ba7cad5ace4"
 julia_version = "1.7.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "e960ed0ec8265f6fb9437ddeb333a8fbd5a16b713b8d78b3fba7403233a9bbe3"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "ff0e08a11ff506461ab72b5ef6e82390efe1994a5fecf56a832ce4bd5b4b24a8"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee1067c38d96c1edf3995c2e7e7051cf8a4b6eb0"
+git-tree-sha1 = "fe8c80c03d05ab63f688199d39ffc33ceb7d3868"
 julia_version = "1.8.2"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "9780da006cca555882f13ce86120ca7eefc8e30e789fb3f703e2704cca797567"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "6dd3fd77753815e7a92f67fffdd95a705f1a4a25fee427278c3e7e0ea851100b"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e4802e165a71ed139de143b8581284da6306099"
+git-tree-sha1 = "95cf60aafa962d9dce24a837cafc8febffe7ce2d"
 julia_version = "1.9.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "84d32c4a454c8826d0c3cc6a91e020ccdfefc3460b5e2a2ab6087b63abc4b058"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "831fdb07b819bf6ec597d6ac1837b9caf7b4f8194de04d8f21533bcfef130e82"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.i686-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "82790eb7ac20839e42d39e40eb2650818bd65650"
-julia_version = "1.10.0"
-libc = "glibc"
-os = "linux"
-
-    [[MaximumIndependentSet.download]]
-    sha256 = "43d80f8d26cdcdeb42972a088dcabf02d4f3627ec2260ae776e60db0fb038a9c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
-[[MaximumIndependentSet]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "47341473964d63c9254cbc6dfdd1edbec8f527d1"
-julia_version = "1.11.0"
-libc = "glibc"
-os = "linux"
-
-    [[MaximumIndependentSet.download]]
-    sha256 = "fdf600de0070d22e06f62922a5d709556476863d6efd26daa9d691fc026e0ae4"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
-[[MaximumIndependentSet]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e97d91a8fa75ad5742eb3ca1bb06f5c6674b1542"
-julia_version = "1.12.0"
-libc = "glibc"
-os = "linux"
-
-    [[MaximumIndependentSet.download]]
-    sha256 = "547274f377c8d6ea9d262cdc00085f550ddc490e64e27ff2da160015dd413acd"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
-[[MaximumIndependentSet]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f959231fe1272c5a64a012369d75a85d6f8e652b"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[MaximumIndependentSet.download]]
-    sha256 = "cd77b95a851d7fc224326b909c7b641b84a45c98198f2a5b68f87e764433278c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[MaximumIndependentSet]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f959231fe1272c5a64a012369d75a85d6f8e652b"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[MaximumIndependentSet.download]]
-    sha256 = "cd77b95a851d7fc224326b909c7b641b84a45c98198f2a5b68f87e764433278c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[MaximumIndependentSet]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f959231fe1272c5a64a012369d75a85d6f8e652b"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[MaximumIndependentSet.download]]
-    sha256 = "cd77b95a851d7fc224326b909c7b641b84a45c98198f2a5b68f87e764433278c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
-[[MaximumIndependentSet]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f959231fe1272c5a64a012369d75a85d6f8e652b"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[MaximumIndependentSet.download]]
-    sha256 = "cd77b95a851d7fc224326b909c7b641b84a45c98198f2a5b68f87e764433278c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
-[[MaximumIndependentSet]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "27ef94aa6f3b66adc11d7aaa1c19d2ed42c7e99b"
+git-tree-sha1 = "8f13b1fa80a41269b08489ae34cb4b0ec344acf2"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "58c887eeda9577d21aaa3042abb925998b79d05f001c945919bef34d49d503ed"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "31f95b914afcd8c59473fb6a8635a107e2303ae3477229daee20d3b0ac4507a4"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5bae74a82c6d7fb119f95f83dae476f790ba991b"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0738d35b3fb8f47b5ed1d5d374d308189afcc2bd"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "93744757fef472438fc6ae614de71b16959c580b258c7becd96699739050bce1"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "746e021edaf44fc1d4fcc4eb82e7dce766fe16f017d0e66ebd5211eaa603b4df"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ac515e96c1794d54a005f3b8fdcb01907aac51f6"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "96a5bf8b9d1303d850a6143d6f5a0a1da35f4aef"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "dbe85df90a09d3fb8197cd7500df8a44e1efcdac4c7824fad87482fcecfe453f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "f2b1b11f793188a875c822efddc3794a1ce254e23645bc5b62a865068b0630b4"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d83ce962f994f020d2e63ac4e67a48af0a363541"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "136c9571a2cd08de39691421f4c16922cb0f8904"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "ea1bca6e7460885a37fe3caa4249c3464521641bdcd0683b1fe80b7cf20471cd"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "e803bf99576ecfbd368ae288c76754744b93664dc5b53301e056eec828bb3ce2"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d83ce962f994f020d2e63ac4e67a48af0a363541"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "136c9571a2cd08de39691421f4c16922cb0f8904"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "ea1bca6e7460885a37fe3caa4249c3464521641bdcd0683b1fe80b7cf20471cd"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "e803bf99576ecfbd368ae288c76754744b93664dc5b53301e056eec828bb3ce2"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d83ce962f994f020d2e63ac4e67a48af0a363541"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "136c9571a2cd08de39691421f4c16922cb0f8904"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "ea1bca6e7460885a37fe3caa4249c3464521641bdcd0683b1fe80b7cf20471cd"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "e803bf99576ecfbd368ae288c76754744b93664dc5b53301e056eec828bb3ce2"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d83ce962f994f020d2e63ac4e67a48af0a363541"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "136c9571a2cd08de39691421f4c16922cb0f8904"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "ea1bca6e7460885a37fe3caa4249c3464521641bdcd0683b1fe80b7cf20471cd"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "e803bf99576ecfbd368ae288c76754744b93664dc5b53301e056eec828bb3ce2"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[MaximumIndependentSet]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bafc25e0f46cdc8b17edfd29a54f08e980ebca6c"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[MaximumIndependentSet.download]]
+    sha256 = "dbf85d69b5499021bc87201813c34249406c6374651e77dfd7c4ac21dd961aee"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[MaximumIndependentSet]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "555140acb7455809d439cee551a0680c9272c917"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[MaximumIndependentSet.download]]
+    sha256 = "8eb2438d98e04c9a87bc380b5214c7dff94849afccf951a715d32da11f9c6883"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[MaximumIndependentSet]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01b2df0097b41c2986a6e66f95ec8015ff863bf2"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[MaximumIndependentSet.download]]
+    sha256 = "1a4f7df4cb23e22c2fd71a3fab1c049b3a0512670a7090ae0c42d12f4d8e426e"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[MaximumIndependentSet]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4623a2faf8e5642012e5d3a471f465ec22b59a3d"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[MaximumIndependentSet.download]]
+    sha256 = "a2390d20dab6cb677fedcbe841a9adf324b00ddd3c05421f30588ea03482777e"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[MaximumIndependentSet]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4623a2faf8e5642012e5d3a471f465ec22b59a3d"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[MaximumIndependentSet.download]]
+    sha256 = "a2390d20dab6cb677fedcbe841a9adf324b00ddd3c05421f30588ea03482777e"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[MaximumIndependentSet]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4623a2faf8e5642012e5d3a471f465ec22b59a3d"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[MaximumIndependentSet.download]]
+    sha256 = "a2390d20dab6cb677fedcbe841a9adf324b00ddd3c05421f30588ea03482777e"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[MaximumIndependentSet]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4623a2faf8e5642012e5d3a471f465ec22b59a3d"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[MaximumIndependentSet.download]]
+    sha256 = "a2390d20dab6cb677fedcbe841a9adf324b00ddd3c05421f30588ea03482777e"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "7a91c17107b1b27bb69ea2de9cd85f23342f3e7e"
+git-tree-sha1 = "6b1d95ed3431040c01ab3a29fe88b703987d6d0f"
 julia_version = "1.10.0"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "c3ba8117119a27d2bebbd9e8281b6718548ba82c5f8450f06d1e14e468263ede"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "a4e20659fb24cff5bb2fe1e20bcd37236fb042a193aa3b39d65ea8b9afc7f78d"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "de38e9f0132dc42f82bd3b592fb2a53c60f7db4b"
+git-tree-sha1 = "ca6aea406d6d6e907e778a60b4132562db1007c3"
 julia_version = "1.11.0"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "9c2905a26924d40c20db894f4ed6d4ecac0d477df4da464560c90dad0b96511e"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "e045c55a32fdf286ad7d1c226717cc795c263cfc429d33bb897715223bea57ac"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "f97a5d0e902be130875f9af5fdac5541ab9613a7"
+git-tree-sha1 = "aa6f92cccc743101f8cf0542006958fd900e0c7c"
 julia_version = "1.12.0"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "6acbd4006e6ebaedf478a463dd53106be1385675f38152c37ebaf7e33ccd4fa2"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "4960a4c3abee5b570602826b1a45ae5da9fddf14960a0870d4f9986a4f409d06"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "8a7aadfae2eab2cfb32a5f37743c8e890de72642"
+git-tree-sha1 = "ccf3201d52de30c6733cd2d975ac3476b5b1062a"
 julia_version = "1.6.3"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "4eae16548e76637c2513e0b1092e82d854623afd5d37b525efe72922d841d168"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "fbd6aa0705da5286d273d67056bc85eb09a57564cef9762d9300f8285fe68dc1"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "cfd5f3007cd8b5d40f626b0661f98735fd8905b4"
+git-tree-sha1 = "905d9d5a2ef3cc64bda8de2096f7f656249038fd"
 julia_version = "1.7.0"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "8d6484d5222496431d5d2440b60cdabfcc932dd990974ded5e2e003adf8a889c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "72baa04632dd9aa154c3ff209d8177ccef60acf841098003bf9965d059a404ac"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "4f28021805add544da46bb992a8e41e992305e75"
+git-tree-sha1 = "04197a3b5e94271bc888a85edef6f84428e23a14"
 julia_version = "1.8.2"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "cd0a31d9af8186ce89f527586c3f5b68da2567959919c05507b6fdff8b85b36c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "416f93353552a0a3284888cdecfeb93400f7762009d12167a23b638726bebfca"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "ae486f13e5840843e669c0190229547dcf292b53"
+git-tree-sha1 = "b7f148bcfc342d67e2d21a81bf14c75eb04b76f0"
 julia_version = "1.9.0"
 os = "macos"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "08994c4e9b6902f2ef8bc536a0ae9d1994b509b40935491d13f076459d23ca94"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "4adc0eee1cf242075233a2f0c198f504edf0a851eaedb5d8fa6b407a86f71307"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "63388d2740f890095e83395ca18d04f706f2aa03"
+git-tree-sha1 = "986e0fe34bedbd7b4ef765ee4bbb5168b88f26ee"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "786636e6e1cd22d10962fe4adc3407fad4cbce16b53925f1606badcce481ec98"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "d8fbe4165c05edefe36285108f0636278412eee2e55c95f62612549e71bd1654"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1baa1dfa00ce34c95c181c76cb74ccc6056590e9"
+git-tree-sha1 = "b2935036052eeb369de0435d3c05f7bc751d6145"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "2530983695648eca4a1a28bbaf6da3268a95efccd07eb66ada7b4ce5b6b7e67c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "d88d6dd5f58b5618dfde6326234d759dab4bb957439ee98acc668cfd68403c9b"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6f17692e2773239ff9d13484e3bb19466524c436"
+git-tree-sha1 = "a81709879f44c26f0dbd62348879eea10e9ad3b6"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "2ff07f51cd050d371c962a3a6ed60591d3746f501b3cb3b13d8804201574de72"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "7e8cbd27bceab5751aed8b24048566a1fc194218b2f0bb393a5aaf6ac3d04e92"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6841088ec939b3d410c4bf141800805a0cfc91cf"
+git-tree-sha1 = "85f3e06d5404694f910f12ec4696fd9fbac30e40"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "01c39be656bd04c26e407c963227ae08c9802c1d73b9c4df43d4b39f8d98296f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "1d3301ef1e11163f34d5bbc47cee3506020aaf6d9012fe2644fb5d20d42403f1"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6841088ec939b3d410c4bf141800805a0cfc91cf"
+git-tree-sha1 = "85f3e06d5404694f910f12ec4696fd9fbac30e40"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "01c39be656bd04c26e407c963227ae08c9802c1d73b9c4df43d4b39f8d98296f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "1d3301ef1e11163f34d5bbc47cee3506020aaf6d9012fe2644fb5d20d42403f1"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6841088ec939b3d410c4bf141800805a0cfc91cf"
+git-tree-sha1 = "85f3e06d5404694f910f12ec4696fd9fbac30e40"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "01c39be656bd04c26e407c963227ae08c9802c1d73b9c4df43d4b39f8d98296f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "1d3301ef1e11163f34d5bbc47cee3506020aaf6d9012fe2644fb5d20d42403f1"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6841088ec939b3d410c4bf141800805a0cfc91cf"
+git-tree-sha1 = "85f3e06d5404694f910f12ec4696fd9fbac30e40"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "01c39be656bd04c26e407c963227ae08c9802c1d73b9c4df43d4b39f8d98296f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "1d3301ef1e11163f34d5bbc47cee3506020aaf6d9012fe2644fb5d20d42403f1"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec14e0d516e8add8f8db50ca2b15f5be4b55bf60"
+git-tree-sha1 = "6f2265a7a1e78b24bc71de7cb4bea084a51a92ca"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "411d89b32607606d16861c55413e94ceb84fec716b571cb5a9c1c954719001c8"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "cf949f3ed2d0f399d5469ff9a841f4320cb5d733b353e64148c9e6c3119f70ff"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8caf329ea6a99c711c32ea22596edd64f79dd01"
+git-tree-sha1 = "47dab49fed3e63db4f6a806e999f8fc23c7afded"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "c0b3ef9f9c4c24480f79d7d5b01d6b75a4066807ed80c635434a4192aa75a7e2"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "586815c2e98c28090768502b3dcc92dc62ae9fc779eec2d00b206e5de0611f8c"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "197789e0c3863863750f1296b243c64632f24049"
+git-tree-sha1 = "6345216748bb270e4dfd097238c9ecdb568d215b"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "5ab235ffd894e71611eb057e481793d012a93d06b56263d1902810d806be4245"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "6ff097d89476c724920cf7b67f5d65a4b10589fa7a07ce28cd985b10e13ec9d1"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "14847b90600d905ecfa8b378530550b6c16b671b"
+git-tree-sha1 = "70d56843ba30a2eeee7f6f9a2deed40f7e1420d4"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "aa4c0e32a2579c31edb936e1133842654a9bf5f732a5d4e27b54c1f4e8fcece6"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "7c48b527b1267ce5d9f44c26ecd68bcb790a353debb51b6ea03eec2136f84f16"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "14847b90600d905ecfa8b378530550b6c16b671b"
+git-tree-sha1 = "70d56843ba30a2eeee7f6f9a2deed40f7e1420d4"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "aa4c0e32a2579c31edb936e1133842654a9bf5f732a5d4e27b54c1f4e8fcece6"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "7c48b527b1267ce5d9f44c26ecd68bcb790a353debb51b6ea03eec2136f84f16"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "14847b90600d905ecfa8b378530550b6c16b671b"
+git-tree-sha1 = "70d56843ba30a2eeee7f6f9a2deed40f7e1420d4"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "aa4c0e32a2579c31edb936e1133842654a9bf5f732a5d4e27b54c1f4e8fcece6"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "7c48b527b1267ce5d9f44c26ecd68bcb790a353debb51b6ea03eec2136f84f16"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "14847b90600d905ecfa8b378530550b6c16b671b"
+git-tree-sha1 = "70d56843ba30a2eeee7f6f9a2deed40f7e1420d4"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "aa4c0e32a2579c31edb936e1133842654a9bf5f732a5d4e27b54c1f4e8fcece6"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "7c48b527b1267ce5d9f44c26ecd68bcb790a353debb51b6ea03eec2136f84f16"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1968bebcb2a078243907dc1ac78f386a9c41028c"
+git-tree-sha1 = "6e009a1edadcad48cea622dc62d4d67fe2e4c0ec"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "6a609a76c91ddaf11089d5252de3e1ab4567a67e9efb2528724f5f25dabf80d7"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "e15df5a3af7c8d17ea94d83f7f633913d9e57b085ef1f77f1c29cda90d7d561d"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a332ffd54fc04940d85d474bd96b10ab1b06494b"
+git-tree-sha1 = "8c5095a314809bfc734eb6982aa80e10cb0a15f9"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "28b86f0347d98273d0cf5078e44798d0443530e4e0634525e14771c1bdfd749f"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "0ee50fd998d816e80c82bc5d38c2421352a5d91440ef7343a45e25d25c15255c"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7a696b0bd801c6c23f6c78f936b174bfbb5e998f"
+git-tree-sha1 = "08943271c70092c658526454d1a8e2c2dcdf732b"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "f318d5b6a509292b3438a008f9004f5ce9faae59c7f352454e4fdda0c50e0d2d"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "a08813bc67268a07b515f725a1de8e9640871a10b5bd4087188eba6ef1ac85c0"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c6d23f0537ff0b718ff09e5e49cde949197561b8"
+git-tree-sha1 = "bee501e44521f64accbdd67aa8d8505735a66aaa"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "1c7892eb51b27a84f837a1b3689bc8c7ce9375a15b75aa64c3cc2d370a5e493c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "22d03458f5b242a143a4de93cd11b085e45a60071190141d98f4afa794505a9b"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c6d23f0537ff0b718ff09e5e49cde949197561b8"
+git-tree-sha1 = "bee501e44521f64accbdd67aa8d8505735a66aaa"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "1c7892eb51b27a84f837a1b3689bc8c7ce9375a15b75aa64c3cc2d370a5e493c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "22d03458f5b242a143a4de93cd11b085e45a60071190141d98f4afa794505a9b"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c6d23f0537ff0b718ff09e5e49cde949197561b8"
+git-tree-sha1 = "bee501e44521f64accbdd67aa8d8505735a66aaa"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "1c7892eb51b27a84f837a1b3689bc8c7ce9375a15b75aa64c3cc2d370a5e493c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "22d03458f5b242a143a4de93cd11b085e45a60071190141d98f4afa794505a9b"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c6d23f0537ff0b718ff09e5e49cde949197561b8"
+git-tree-sha1 = "bee501e44521f64accbdd67aa8d8505735a66aaa"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "1c7892eb51b27a84f837a1b3689bc8c7ce9375a15b75aa64c3cc2d370a5e493c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "22d03458f5b242a143a4de93cd11b085e45a60071190141d98f4afa794505a9b"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "629b73e7e1cb666eed9eda91c0573273a7bc1b31"
+git-tree-sha1 = "b73b98f949028daa321d68353cf10eefdd467d7d"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "e8e9d7b9097c2e90f8614a41fd437feab3b1139b75279defc3e028d95e50d46e"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "4153671dc11feff8ad0fb325477f00f083f47fe059eb4e4db6659b00261b09c5"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a9c091efae995a2f4284f3566d62bd94b345756a"
+git-tree-sha1 = "e7d0670a2618a9c1d8d70df013a2cce956786100"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "0c43cd0417f31f99992557d8c6451e3c9a991bd01437136158d350345cc1ef4b"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "4ce75043821a23b05f651e44d0f2e76bbf5b2d20ec21be0dedd660907ed11354"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f16e9789dbb14904fb6896ca237acc4dda8df867"
+git-tree-sha1 = "2d7954759d456aa66ad5264f9af5a3ff780f457f"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "f7d28f5271aeaaf1aec2288bc2897e14464e753615ea209658ac6745765546cd"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "1bcdaecd5a6e7fdb2c921939e544aa63f176ae66f9287b08ebd585f400e7e3e4"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c9c0b2063b2fe7780ac703c2137f14f33df24bf4"
+git-tree-sha1 = "5a3b60fdb937893c51afcccdcb552df11e609950"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "e0dd6d464c4a6429b489c49a02574020f5b0fa1aefd98f0da8727dc22be0aae7"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "2fcc73a5b1fa063ffbcdf902f5b62e487dee1621c28db621a63c035ea9d15790"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c9c0b2063b2fe7780ac703c2137f14f33df24bf4"
+git-tree-sha1 = "5a3b60fdb937893c51afcccdcb552df11e609950"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "e0dd6d464c4a6429b489c49a02574020f5b0fa1aefd98f0da8727dc22be0aae7"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "2fcc73a5b1fa063ffbcdf902f5b62e487dee1621c28db621a63c035ea9d15790"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c9c0b2063b2fe7780ac703c2137f14f33df24bf4"
+git-tree-sha1 = "5a3b60fdb937893c51afcccdcb552df11e609950"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "e0dd6d464c4a6429b489c49a02574020f5b0fa1aefd98f0da8727dc22be0aae7"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "2fcc73a5b1fa063ffbcdf902f5b62e487dee1621c28db621a63c035ea9d15790"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c9c0b2063b2fe7780ac703c2137f14f33df24bf4"
+git-tree-sha1 = "5a3b60fdb937893c51afcccdcb552df11e609950"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "e0dd6d464c4a6429b489c49a02574020f5b0fa1aefd98f0da8727dc22be0aae7"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "2fcc73a5b1fa063ffbcdf902f5b62e487dee1621c28db621a63c035ea9d15790"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "432133ca86cfc83ef07a82e48d57c37fcc3beb86"
+git-tree-sha1 = "1bd7877120028bbb958587a91c2b0dbaff7ff950"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "90ac83e7c7b3d1ecc6c91a7288e77aa6dd37fbaf1651601f3ca37971432a2145"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "1653f417cfd225566530967286e586f871f11bf7cdf500f6090a227aa3d69c30"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "1eac5ae63e7ef617cd4fbaeab1281394ed54170a"
+git-tree-sha1 = "f68f43f30235da739784d39c5ccb5231c1b49399"
 julia_version = "1.11.0"
 os = "freebsd"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "4e0c845506557bb3f65d679fd2d70cafe7f5ed2e5c9f8f631d26d597160ab3ad"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+    sha256 = "27d5efa6d38490142a6aea566b220169c7ff7694dcc977b35c97acdda14ce2d9"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "7b948fa40a17f80dd6448ff493bbd3e6c1a5f588"
+git-tree-sha1 = "c5731947ed64e4edd9e5e559375c0e1274de62ef"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "33a0f26c2c89b03eb4f793a6e866eeec13d8ae37b79d1916b7ef25f6410b268c"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "5f9cc02f2158a9c3d2aa0402751061bb65a99605ddbfc1d93925e5426eb59eaf"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "435615bede39bec42de6fe75ce3490beabde53f0"
+git-tree-sha1 = "31e2128d9d09b27099a372053c13b4c68cee5c99"
 julia_version = "1.6.3"
 os = "freebsd"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "c9fb7ef94490a51e0d44010c2068759e7970878604891c996484aca4928377bb"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+    sha256 = "cca55077f1d19ae14613cb50beea89acc13e1c6c9e441cb298b17b4a2e93a0c4"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "435615bede39bec42de6fe75ce3490beabde53f0"
+git-tree-sha1 = "31e2128d9d09b27099a372053c13b4c68cee5c99"
 julia_version = "1.7.0"
 os = "freebsd"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "c9fb7ef94490a51e0d44010c2068759e7970878604891c996484aca4928377bb"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+    sha256 = "cca55077f1d19ae14613cb50beea89acc13e1c6c9e441cb298b17b4a2e93a0c4"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "435615bede39bec42de6fe75ce3490beabde53f0"
+git-tree-sha1 = "31e2128d9d09b27099a372053c13b4c68cee5c99"
 julia_version = "1.8.2"
 os = "freebsd"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "c9fb7ef94490a51e0d44010c2068759e7970878604891c996484aca4928377bb"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
+    sha256 = "cca55077f1d19ae14613cb50beea89acc13e1c6c9e441cb298b17b4a2e93a0c4"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
-git-tree-sha1 = "435615bede39bec42de6fe75ce3490beabde53f0"
+git-tree-sha1 = "31e2128d9d09b27099a372053c13b4c68cee5c99"
 julia_version = "1.9.0"
 os = "freebsd"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "c9fb7ef94490a51e0d44010c2068759e7970878604891c996484aca4928377bb"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+    sha256 = "cca55077f1d19ae14613cb50beea89acc13e1c6c9e441cb298b17b4a2e93a0c4"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ebdd59f65a26e7c28b2eb2d406c0ec9608568c2d"
+git-tree-sha1 = "909da5cd655c84abc83b3e345de42b6f00bf112f"
 julia_version = "1.10.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "f5fdca4344e27679a3a0d5adb48f2c99131b945269c00cb9d0a03bc790608391"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "078b9b5d8cfaa5628d39e3bb4118aefbe27bb8c316dd129647f455526b67c3a5"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1f8ad32df108f92afc411bf75d491c57dd675ea2"
+git-tree-sha1 = "63486a29710adcaaa8d265d58be1f76493562f73"
 julia_version = "1.11.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "7bcfac4c4bd440df1623b7b73130bd7be56dbdba2a97c58e8170fc40c2525ade"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "a7366e9b5b3ca1bb3593d6aaf9e7c140e3d87d0a8360836cd9e4829189ea758e"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8f917c444c8b7921d28e2c1ea4048cab85685d68"
+git-tree-sha1 = "f183bfcc4958572d2c9416fd31d5154a550d78a2"
 julia_version = "1.12.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "0ef49572963f61d74a18da02aa042f13279ca3b347f6d3396eb0670a26e42a3b"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "62891db9d50da6c254b4ff8bbb0aea1b5b7bd743c60a0391c2362efb4e5edacf"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7d13156c464bf76c8847dcfffa104b112a2fee58"
+git-tree-sha1 = "8069849865fd5b2069f4038ef24b6ab9fb7082e2"
 julia_version = "1.6.3"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "638d579c37bd12432c5cb484cd87b541f6518ecc2f946f8f03f5aae89b98fa48"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "5418eb745599c316d0ff318ac776f5fc981b477ed1fdb52d7e23092f0bab6483"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3cf853b61603e1584dec9f50541862de0d4f5e22"
+git-tree-sha1 = "101402c9e20ce0fe41803bc6c0c44f8ac99f3d4f"
 julia_version = "1.7.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "c8bf26090d5001ce3009d935dde0f33393784ee8d6d6537d34b50641c0200af9"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "42a3fc255951c6bfda319ba07d4a804ce745b1c12ac84351e09a276789df246f"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "27fe9040587e6d26afd7f880e45c32988d2e6cc7"
+git-tree-sha1 = "fa4f2eb350d12d41c5bd2fac4641159949fc20fd"
 julia_version = "1.8.2"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "7662c202504501128113145a8da4812c867990f54ad7fa1d10fc5a55014fe2ad"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "d73794787f3d51a320c4a29ecd796dd0a7e0a1eef35a708ad99fb8b57bd98ec1"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0f386e04d0934589f4ede105a7ad0e676f67e010"
+git-tree-sha1 = "9cf1e56a48aabd5802afa6f12e2b2bd9fd4b0e4a"
 julia_version = "1.9.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "cda46759cb0a829a84383c0af32e7968ddcf3788ebf195ddea6685d8dc739ab2"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "cafdb05d5a7a1311c597e47aa827268c639b6b02d9187d0bfc51f6cdb754af21"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8f3a91331eba915c4e5670bbc5218f82648420a5"
+git-tree-sha1 = "c660978a874d9fe277fe97da4f5b6a82ed4edea7"
 julia_version = "1.10.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "1540fb9fefb2d596b7989c30d14aea6fc3f829286c58030d9e58f5321d4e7930"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "398651da4f9a998982a640488147d1905d6d14ca4e20f2bee2f0b63ea7155309"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d3f981d765ec3b0dcab16753b35b32eb39eabbe5"
+git-tree-sha1 = "5822c91512454bb0722c2fc0fbc3be0299361316"
 julia_version = "1.11.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "99d54f137eca906426e03de9398a31cd35f71b76a99a137b2f9b0ffa8a6b57f3"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "a3829ed0cb66e188233599f58be40d954afd1f3c56becf26daae53adbfd42c0f"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8eb040477c792dababf68bb998f79e02f81e4d6a"
+git-tree-sha1 = "36e62283ebc7628b94ecca4841020aa0fa26fde6"
 julia_version = "1.12.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "786dd72585f09afb13cef9a062f792998423092bf1d8dda12c73f90e20ee12b8"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "a1ed1a44d025227d3d411a3478651f5840c8e554569db2ed3dfe587742f0c2d2"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2590a0c856b07cead268546d6952f0d37264a4f8"
+git-tree-sha1 = "2721c647165d2d50c76f40ffe6b579f358923a35"
 julia_version = "1.6.3"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "b63ec0e06f7a8763a41c399c19d32f05dfcb5130d764dff77666bfd8ebc2a4ea"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "0a7257919f8f6cf8fe207be0f54b600ab125d44078f97f411963b91d1e5cad36"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "297a712cc06728166f8e921253be1d81dc3a27bd"
+git-tree-sha1 = "0f51d6111e9f054cbf76744437938dd92c1e0b69"
 julia_version = "1.7.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "2bb5b6b8223bdcfc5f9f2075eb8fd787eb32861f319a548323746e95f45272bb"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "78ab498a73bcda5061e4724b5d69c768584d479f285b8f659a54d7343d63ef8c"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c20efc1272f7202107aee62e32a85301733140a6"
+git-tree-sha1 = "9910d1a0095f3536fec92659ff89dff3f84868b4"
 julia_version = "1.8.2"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "42aab050dd0e44f088a2fea72a9923eb0b0607c39bc9c09d79409df896c52204"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "66625c5e7df16a0f2655df8123b6ea6af5b07f4de82634b3123df42b50c61331"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
 [[MaximumIndependentSet]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "30f84b0b4f53d1264d86988ef1226ff640d4e68c"
+git-tree-sha1 = "027986b6c32b226d47a76960ff09cfdb26af171d"
 julia_version = "1.9.0"
 os = "windows"
 
     [[MaximumIndependentSet.download]]
-    sha256 = "da361d75b6b65e10c4a9c88060c9a5914a5bdf16fbf637a5140777be06cd08ca"
-    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.2+0/MaximumIndependentSet.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "521576a7aed6383962e8355187351344725b03bd648240db191fceddd767b95e"
+    url = "https://github.com/JuliaBinaryWrappers/MaximumIndependentSet_jll.jl/releases/download/MaximumIndependentSet-v0.1.3+0/MaximumIndependentSet.v0.1.3.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
